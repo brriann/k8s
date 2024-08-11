@@ -7,3 +7,5 @@ my attempt to learn k8s, linux sysadmin, networking, /etc..
     - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - k8sharder
     - https://github.com/ghik/kubernetes-the-harder-way
+- notes
+    - personal notes
